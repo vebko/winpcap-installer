@@ -1,5 +1,5 @@
-# winpcap-installer
-programmatically install winpcap (without run WinPcap.exe installation)
+# winpcap-installer(silent installer)
+programmatically install winpcap (silent installer) - (without run WinPcap.exe installation)
 
 <b>1- plz paste winpcap_dll_drivers dll files to bin/Debug folder</b>
 <br>
